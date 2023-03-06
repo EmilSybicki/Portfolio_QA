@@ -33,7 +33,7 @@ Pierwszy moduł, prework.
    + podstawy języka Java
    + podstawy SQL, Git, Html, CSS
 
-## w trakcie##
+## w trakcie ##
 Nazwa: Selenium WebDriver 4 With Java - Novice To Ninja + Interview
 Organizator: UDEMY
 
