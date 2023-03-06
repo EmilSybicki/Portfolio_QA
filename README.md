@@ -41,7 +41,7 @@ Organizator: UDEMY
 ## Books
 Sylabus ISTQB
 
-## roups on Facebook
+## Groups on Facebook
 Testowanie oprogramowania  
 Chery IT
 
