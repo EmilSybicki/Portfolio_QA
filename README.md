@@ -1,12 +1,12 @@
-# Portfolio_QA
-Emil Sybicki
+# Portfolio_QA  
 
-# About me
+## About me
+Cześć, mam na imię Emil Sybicki.
 Interesuję się testowaniem i programowaniem.
 Jestem na etapie zmiany zawodu i chętnie podejmę się nowych wyzwań.
-Mam kilkuletnie doświadczenie zawodowe jako animator 3d i grafik.
+Mam kilkuletnie doświadczenie zawodowe jako animator 3d i grafik DTP.
 
-# Tools
+## Tools
 * Postman 
 * Jira
 * TestRail
@@ -15,7 +15,7 @@ Mam kilkuletnie doświadczenie zawodowe jako animator 3d i grafik.
 * Screen capture software
 * Photo editing software (ex. Photoshop)
 
-# Tech skills
+## Tech skills
 * SQL
 * Chrome Dev Tools
 * Mockaroo
@@ -24,8 +24,9 @@ Mam kilkuletnie doświadczenie zawodowe jako animator 3d i grafik.
 * Creating test cases
 * Reporting bugs
 * Basic Java, Python, PHP
+* Basic Linux Ubuntu
 
-# Courses
+## Courses
 Nazwa: Kurs Java  
 Organizator: CodersLab  
 Pierwszy moduł, prework.  
@@ -33,18 +34,18 @@ Pierwszy moduł, prework.
    + podstawy języka Java
    + podstawy SQL, Git, Html, CSS
 
-## w trakcie ##
+### w trakcie
 Nazwa: Selenium WebDriver 4 With Java - Novice To Ninja + Interview
 Organizator: UDEMY
 
-# Books
+## Books
 Sylabus ISTQB
 
-# Groups on Facebook
+## roups on Facebook
 Testowanie oprogramowania  
 Chery IT
 
-# My test case examples
-# My bug reports
-# My examples of diagrams and decision tables
-# My projects
+## My test case examples
+## My bug reports
+## My examples of diagrams and decision tables
+## My projects
