@@ -41,7 +41,7 @@ Organizator: UDEMY
 Sylabus ISTQB
 
 # Groups on Facebook
-Testowanie oprogramowania
+Testowanie oprogramowania  
 Chery IT
 
 # My test case examples
