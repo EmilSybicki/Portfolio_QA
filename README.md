@@ -3,8 +3,10 @@
 ## About me
 Cześć, mam na imię Emil Sybicki.
 Interesuję się testowaniem i programowaniem.
-Jestem na etapie zmiany zawodu i chętnie podejmę się nowych wyzwań.
-Mam kilkuletnie doświadczenie zawodowe jako animator 3d i grafik DTP.
+Jestem na etapie zmiany zawodu i intensywnie uczę sie by zostać testerem manualnym.
+Poza tym kilkuletnie doświadczenie zawodowe jako animator 3d i grafik DTP. 
+
+Na tej stronie będę umieszczał projekty testerskie.
 
 ## Tools
 * Postman 
