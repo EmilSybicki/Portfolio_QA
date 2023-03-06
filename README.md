@@ -26,25 +26,24 @@ Mam kilkuletnie doświadczenie zawodowe jako animator 3d i grafik.
 * Basic Java, Python, PHP
 
 # Courses
-Nazwa: Kurs Java
-Organizator: CodersLab
-Opis: Pierwszy moduł, prework.
-Poruszane zagadnienia:
-<ul>
-   <li>wstęp do teorii informatyki</li>
-   <li>podstawy języka Java</li>
-   <li>podstawy SQL, Git, Html, CSS</li>
-</ul>
+Nazwa: Kurs Java  
+Organizator: CodersLab  
+Pierwszy moduł, prework.  
+   + wstęp do teorii informatyki
+   + podstawy języka Java
+   + podstawy SQL, Git, Html, CSS
 
-
+## w trakcie##
+Nazwa: Selenium WebDriver 4 With Java - Novice To Ninja + Interview
+Organizator: UDEMY
 
 # Books
 Sylabus ISTQB
 
 # Groups on Facebook
 Testowanie oprogramowania
+Chery IT
 
-# Recommended blogs
 # My test case examples
 # My bug reports
 # My examples of diagrams and decision tables
